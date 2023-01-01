@@ -1,0 +1,244 @@
+body{
+    background-color: #121926;
+    font-family: sans-serif;
+}
+
+#navbarpage{
+box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    background-color: #121926;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 95%;
+   padding: 20px 40px;
+   /* background-color: white !important; */
+}
+#navbarpage>div{
+    display: flex;
+}
+
+#list i{
+    color: white;
+}
+#one{
+    display:flex;
+    align-items: center;
+    gap: 20px;
+    color: rgb(223, 210, 210);
+}
+#one>div:hover{
+    color: white;
+}
+#kid img{
+    width: 15%;
+}
+
+
+#two{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+#two>div{
+    display: flex;
+    align-items: center;
+}
+#first{
+    border-bottom: 1px solid rgb(225, 210, 210);
+    padding: 3px;
+    display: flex;
+    justify-content: space-between;
+}
+#two input{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 20px;
+}
+#two>div i{
+    color: rgb(190, 181, 181);
+}
+#second button{
+    background-color:#1F80E0;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 12px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+#third button{
+    background-color: transparent;
+    color: white;
+    border: none;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+#third button:hover{
+    background-color: rgba(10, 10, 172, 0.788);
+    font-weight: 800;
+}
+
+
+
+
+
+#slide{
+    width: 95%;
+    margin: auto;
+    margin-top: 100px;
+    height: fit-content;
+}
+#slide img{
+  width: 100%;
+  border-radius: 10px;
+}
+
+
+#filter{
+    width: 95%;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+#filter button{
+    background-color: transparent;
+   color: white;
+   font-size: 20px;
+   padding: 15px;
+   background-color: rgb(5, 16, 50);  
+   border-radius: 20px;
+   border: none;
+   cursor: pointer;
+   margin-right: 30px;
+}
+
+
+#container{
+     width: 95%;
+    margin: auto;
+    margin-top: 50px;
+    height: fit-content;
+    display: grid;
+    color: white;
+    grid-template-columns: repeat(4,1fr);
+    text-align: center;
+    gap: 70px 50px;
+}
+#container #load{
+    width: 40%;
+    margin-top: 0%;
+    box-shadow: none;
+    grid-column: 2/3;
+    margin-left: 300px;
+}
+
+#container img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#container>div{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+    position: static;
+}
+#container>div:hover{
+   background-color: white;
+   color: black;
+    cursor: pointer;
+    width: 100%;
+}
+
+#container h3{
+    color: grey;
+}
+#container h2{
+    margin: 15px;
+}
+
+@media all and (min-width:551px) and (max-width:1000px){
+     
+    body{
+    margin: 0 3%
+}
+
+    #navbarpage button{
+         font-size: 10px;
+         width: fit-content;
+    }
+    #filter button{
+        font-size: 10px;
+        width: fit-content;
+    }
+
+        #navbarpage #one{
+         display: none;
+    }
+    #navbarpage img{
+        display: block !important;
+        width: 20%; 
+    }
+    #navbarpage input{
+         display: none;
+    }
+
+    #container{
+        grid-template-columns: repeat(2,1fr);
+        font-size: 10px !important;
+    }
+  
+    
+  
+}
+@media all and (min-width:200px) and (max-width:550px){
+   #navbarpage button{
+         font-size: 10px;
+         width: fit-content;
+
+    }
+     #navbarpage #one{
+         display: none;
+    }
+    #navbarpage input{
+         display: none;
+    }
+      
+
+      #filter button{
+        font-size: 10px;
+        width: fit-content;
+        margin-top: 30px;
+    }
+
+    #filter {
+        width: 100%;
+    }
+         #container{
+        grid-template-columns: repeat(2,1fr);
+        font-size: 8px !important;
+    }
+}
+@media all and (min-width:50px) and (max-width:200px){
+   #navbarpage div{
+         font-size: 5px;
+         width: fit-content;
+    }
+      #filter button{
+        font-size: 10px;
+        width: fit-content;
+    }
+         #container{
+        grid-template-columns: repeat(1,1fr);
+    }
+}

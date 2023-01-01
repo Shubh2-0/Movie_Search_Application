@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://cdn.meadd.net/photos/full/69287308.jpg);
+    background-size: cover;
+}
+form{
+    background-color: #01040e9d;
+    display: grid;
+    width: 25%;
+    margin: auto;
+    margin-top: 150px;
+    padding: 70px 20px;
+}
+form>input{
+    font-size: 20px;
+    padding: 10px 30px;
+    margin-bottom: 50px;
+    background-color: rgba(19, 30, 114, 0.484);
+    color: white;
+    border: none;
+    outline: none;
+}
+input::placeholder{
+color: white;
+}
+#login{
+    width: 80%;
+    margin: auto;
+    font-size: 25px;
+   padding: 11px 0px;
+   background-color: #0C205B; 
+   color: white;
+   font-weight: 700;
+   border-radius: 20px;
+   border: none;
+}
+#login:hover{
+    cursor: pointer;
+    background-color: rgb(50, 234, 13);
+    font-weight: 800;
+}
