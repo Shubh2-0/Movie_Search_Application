@@ -4,7 +4,7 @@ The tools used in the project are HTML, CSS, JavaScript , OMDB API.
 
 
 <ul>
-  <li>Carousel</li>
+  <li>Marky Image Slider</li>
   <li>User can easily search any movie</li>
   <li>User can sort the movies based on their ratings</li>
   <li>Login/Sign-up feature</li>
