@@ -10,6 +10,6 @@ This is a Movie-App wherein you can search for any movie and retrieve informatio
 
 <h2> Snippets</h2>
 <div>
-<img src="" width="100%">  
+<img src="https://drive.google.com/file/d/1toOv0fbKMlR7qK_QDDuSoemUwSR1jHQR/view?usp=sharing" width="100%">  
 </div>
 
