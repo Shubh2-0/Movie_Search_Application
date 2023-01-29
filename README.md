@@ -1,10 +1,11 @@
 # Movie-App
-This is a Movie-App wherein you can search for any movie and retrieve information regarding the same. Basic CSS, HTML, and JavaScript was used to build this website. It uses the data fetched by OMDB API. It has:
+This is a Web Application where user can search for any Movie title in the search page and get the details of it like IMDB rating, Release Year, Genre. 
+The tools used in the project are HTML, CSS, React, OMDB API. It has:
 
 <ul>
   <li>Carousel</li>
   <li>Search functionality</li>
-  <li>Sort Functionality</li>
+  <li>Users can sort the movies based on their ratings.</li>
   <li>Login/Sign-up feature</li>
 </ul>
 
