@@ -1,11 +1,12 @@
-# Movie-App
+# Movie Web Application
 This is a Web Application where user can search for any Movie title in the search page and get the details of it like IMDB rating, Release Year, Genre. 
-The tools used in the project are HTML, CSS, React, OMDB API. It has:
+The tools used in the project are HTML, CSS, JavaScript , OMDB API. 
+It has:
 
 <ul>
   <li>Carousel</li>
   <li>Search functionality</li>
-  <li>Users can sort the movies based on their ratings.</li>
+  <li>Sort by Ratings functionality</li>
   <li>Login/Sign-up feature</li>
 </ul>
 
