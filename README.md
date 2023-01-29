@@ -12,13 +12,7 @@ This is a Movie-App wherein you can search for any movie and retrieve informatio
 <div>
  <a href="https://drive.google.com/uc?export=view&id=1toOv0fbKMlR7qK_QDDuSoemUwSR1jHQR"><img src="https://drive.google.com/uc?export=view&id=1toOv0fbKMlR7qK_QDDuSoemUwSR1jHQR" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" /> 
   
-   <br>
-   
-  <a href="https://drive.google.com/uc?export=view&id=1toOv0fbKMlR7qK_QDDuSoemUwSR1jHQR"><img src="https://drive.google.com/uc?export=view&id=1toOv0fbKMlR7qK_QDDuSoemUwSR1jHQR" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" /> 
-    
-   <br> 
-    
-     <a href="https://drive.google.com/uc?export=view&id=1toOv0fbKMlR7qK_QDDuSoemUwSR1jHQR"><img src="https://drive.google.com/uc?export=view&id=1toOv0fbKMlR7qK_QDDuSoemUwSR1jHQR" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" /> 
+  
  
 </div>
 
