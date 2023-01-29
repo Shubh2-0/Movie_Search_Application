@@ -3,17 +3,46 @@ function slider(){
    let slide=document.getElementById("slide")
 slide.innerHTML=null
 
-let arr2=["slider_images/Slide1.png","slider_images/Slide2.png","slider_images/Slide3.png","slider_images/Slide4.png","slider_images/Slide5.png","slider_images/Slide6.png","slider_images/Slide7.png","slider_images/Slide8.png","slider_images/Slide9.png","slider_images/Slide10.png","slider_images/Slide11.png","slider_images/Slide12.png","slider_images/Slide13.png"];
+// let arr3=["slider_images/Slide1.png","slider_images/Slide2.png","slider_images/Slide3.png","slider_images/Slide4.png","slider_images/Slide5.png","slider_images/Slide6.png","slider_images/Slide7.png","slider_images/Slide8.png","slider_images/Slide9.png","slider_images/Slide10.png","slider_images/Slide11.png","slider_images/Slide12.png","slider_images/Slide13.png"];
+let arr2 = ['https://drive.google.com/uc?export=view&id=15nR172CCX7C_-jwEXc_BhdzJPkLdXaGJ',
+'https://drive.google.com/uc?export=view&id=157SvOTCcVRVU4Wawux8nm155NXwnShG_',
+'https://drive.google.com/uc?export=view&id=19tQ1i7RiTVi_ebVWYhfWclXx3rU9Gq1X',
+'https://drive.google.com/uc?export=view&id=1IB28XPHnwkDDFxVL6oZPKk41ITDlpZIA',
+'https://drive.google.com/uc?export=view&id=1Nr0Ge9c5TfYTPLaJecbRNOjjMGuT0nDE',
+'https://drive.google.com/uc?export=view&id=1SMEWJFc41egh9-PiI-uqkA4kL9kifiIi',
+'https://drive.google.com/uc?export=view&id=1usWaZ1z780AAFpajIhAGW1tQSBjiC1AU',
+'https://drive.google.com/uc?export=view&id=1y1bBqv5ZHcDIA_eW16n4hqIlTocjK1Ho',
+'https://drive.google.com/uc?export=view&id=1eroZ3frS7D9Ik8Rdy3ItWL6HOrLh_0vr',
+'https://drive.google.com/uc?export=view&id=1LiNAyd09uEUV5wCzTTFimIJe2zkqcoPf',
+'https://drive.google.com/uc?export=view&id=1UsBW4cYihc7HWKr1VjZ8cUSiB74vdGbp',
+'https://drive.google.com/uc?export=view&id=17cjiqTeERtEvcLSUroIg5TXLWPTe_TTp',
+]
 
-// let arr2=["https://scontent.fbho3-1.fna.fbcdn.net/v/t39.30808-6/327474399_2458166661002204_3456931140616213573_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0debeb&_nc_ohc=x5DaWfllbswAX8ShEgE&_nc_ht=scontent.fbho3-1.fna&oh=00_AfDfzrOC_EH1yeu6RUzlQ26WYC3c4UMgIJTVwE3I6yxBcg&oe=63DC014B","https://www.facebook.com/photo/?fbid=116337848026314&set=pob.100089502985491","https://www.facebook.com/photo?fbid=116337391359693&set=pob.100089502985491","https://www.facebook.com/photo?fbid=116337401359692&set=pob.100089502985491","https://www.facebook.com/photo/?fbid=116337644693001&set=pob.100089502985491","https://www.facebook.com/photo/?fbid=116337601359672&set=pob.100089502985491","https://www.facebook.com/photo/?fbid=116337584693007&set=pob.100089502985491","https://www.facebook.com/photo/?fbid=116337521359680&set=pob.100089502985491","https://www.facebook.com/photo?fbid=116337498026349&set=pob.100089502985491","https://www.facebook.com/photo?fbid=116337464693019&set=pob.100089502985491","https://www.facebook.com/photo?fbid=116337421359690&set=pob.100089502985491"]
+/*
 
+https://drive.google.com/file/d/1UsBW4cYihc7HWKr1VjZ8cUSiB74vdGbp/view?usp=sharing
+https://drive.google.com/file/d/17cjiqTeERtEvcLSUroIg5TXLWPTe_TTp/view?usp=sharing
+https://drive.google.com/file/d/17cjiqTeERtEvcLSUroIg5TXLWPTe_TTp/view?usp=sharing
+https://drive.google.com/file/d/1SMEWJFc41egh9-PiI-uqkA4kL9kifiIi/view?usp=sharing
+https://drive.google.com/file/d/15nR172CCX7C_-jwEXc_BhdzJPkLdXaGJ/view?usp=sharing
+https://drive.google.com/file/d/157SvOTCcVRVU4Wawux8nm155NXwnShG_/view?usp=sharing
+https://drive.google.com/file/d/19tQ1i7RiTVi_ebVWYhfWclXx3rU9Gq1X/view?usp=sharing
+https://drive.google.com/file/d/1IB28XPHnwkDDFxVL6oZPKk41ITDlpZIA/view?usp=sharing
+https://drive.google.com/file/d/1Nr0Ge9c5TfYTPLaJecbRNOjjMGuT0nDE/view?usp=sharing
+https://drive.google.com/file/d/1SMEWJFc41egh9-PiI-uqkA4kL9kifiIi/view?usp=sharing
+https://drive.google.com/file/d/1usWaZ1z780AAFpajIhAGW1tQSBjiC1AU/view?usp=sharing
+https://drive.google.com/file/d/1y1bBqv5ZHcDIA_eW16n4hqIlTocjK1Ho/view?usp=sharing
+https://drive.google.com/file/d/1eroZ3frS7D9Ik8Rdy3ItWL6HOrLh_0vr/view?usp=sharing
+https://drive.google.com/file/d/1LiNAyd09uEUV5wCzTTFimIJe2zkqcoPf/view?usp=sharing
+
+*/
 
 
 let num=Math.floor( Math.random()*arr2.length)
 
 let poster=arr2[num]
 
-// console.log(num)
+console.log(num)
 
 let img=document.createElement("img")
 
