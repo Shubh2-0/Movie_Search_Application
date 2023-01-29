@@ -12,7 +12,7 @@ import sl from "../component/slider.js"
 
 
 
-setInterval(sl,2000)
+setInterval(sl,3000)
 
 
 
