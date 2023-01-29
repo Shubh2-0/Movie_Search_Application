@@ -10,6 +10,7 @@ This is a Movie-App wherein you can search for any movie and retrieve informatio
 
 <h2> Snippets</h2>
 <div>
+ <a href="https://drive.google.com/uc?export=view&id=<FILEID>"><img src="https://drive.google.com/uc?export=view&id=1toOv0fbKMlR7qK_QDDuSoemUwSR1jHQR" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" /> 
 <img src="https://drive.google.com/file/d/1toOv0fbKMlR7qK_QDDuSoemUwSR1jHQR/view?usp=sharing" width="100%">  
 </div>
 
