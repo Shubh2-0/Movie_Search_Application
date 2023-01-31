@@ -1,5 +1,5 @@
 # Movie Web Application
-This is a Web Application where user can search for any Movie title in the search page and get the details of it like IMDB rating, Release Year, Genre. 
+This is a Web Application where user can search for any Movie in the search page and get the details of it like IMDB rating, Release Year, Genre. 
 The tools used in the project are HTML, CSS, JavaScript , OMDB API. 
 
 
