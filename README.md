@@ -18,8 +18,11 @@ The tools used in the project are HTML, CSS, JavaScript , OMDB API.
 
 <h2> Snippets</h2>
 <div>
- <a href="https://drive.google.com/uc?export=view&id=1toOv0fbKMlR7qK_QDDuSoemUwSR1jHQR"><img src="https://drive.google.com/uc?export=view&id=1toOv0fbKMlR7qK_QDDuSoemUwSR1jHQR" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" /> 
+ <a href="https://drive.google.com/uc?export=view&id=1toOv0fbKMlR7qK_QDDuSoemUwSR1jHQR"><img src="https://drive.google.com/uc?export=view&id=1toOv0fbKMlR7qK_QDDuSoemUwSR1jHQR" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+ 
+ <a href="https://drive.google.com/uc?export=view&id=1VaxHGNpSQyFU-6sDJdxjAq--8aUkPeRh"><img src="https://drive.google.com/uc?export=view&id=1VaxHGNpSQyFU-6sDJdxjAq--8aUkPeRh" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
   
+  <a href="https://drive.google.com/uc?export=view&id=d/1Es7xhUlPdsy1L1pDgU1tJ_A9AmqtKCvm"><img src="https://drive.google.com/uc?export=view&id=d/1Es7xhUlPdsy1L1pDgU1tJ_A9AmqtKCvm" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
   
  
 </div>
