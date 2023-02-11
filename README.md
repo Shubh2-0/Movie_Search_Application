@@ -24,6 +24,6 @@ The tools used in the project are HTML, CSS, JavaScript , OMDB API.
   
   <a href="https://drive.google.com/uc?export=view&id=d/1Es7xhUlPdsy1L1pDgU1tJ_A9AmqtKCvm"><img src="https://drive.google.com/uc?export=view&id=d/1Es7xhUlPdsy1L1pDgU1tJ_A9AmqtKCvm" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
   
- 
+<!--   -->
 </div>
 
