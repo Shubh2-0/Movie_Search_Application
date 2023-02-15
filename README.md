@@ -1,4 +1,4 @@
-# Movie Web Application
+# Movie Web Application 🎬
 This is a Web Application where user can search for any Movie in the search page and get the details of it like IMDB rating, Release Year, Genre. 
 The tools used in the project are HTML, CSS, JavaScript , OMDB API. 
 
@@ -18,7 +18,7 @@ The tools used in the project are HTML, CSS, JavaScript , OMDB API.
   
 
 
-  
+  <a href="https://glittery-crostata-94ff7d.netlify.app/" target="_blank">**Visit Now** 🎥</a>
 
 
 <h2> Snippets</h2>
@@ -42,7 +42,7 @@ The tools used in the project are HTML, CSS, JavaScript , OMDB API.
 
  
  ## Tools Used 🛠️
-<img src="images/html.png" alt="skill" width="50" /> <img src="images/css.png" alt="skill" width="50" /> <img src="images/js.png" alt="skill" width="50" /> <img src="images/github.png" alt="skill" width="50" /> <img src="images/vscode.png" alt="skill" width="50" />
+<img src="images/html.png" alt="skill" width="50" /> <img src="images/css.png" alt="skill" width="50" /> <img src="images/js.png" alt="skill" width="50" /> <img src="images/github.png" alt="skill" width="50" /> <img src="images/vscode.png" alt="skill" width="50" />  <img src="images/restful;.png" alt="skill" width="50" />
 
 
 <br>
@@ -58,7 +58,7 @@ The tools used in the project are HTML, CSS, JavaScript , OMDB API.
 
 
 
-<a href="https://poetic-alfajores-3390b6.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://glittery-crostata-94ff7d.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 <h2>📫 Contact</h2>
 
