@@ -32,14 +32,6 @@ This is a Web Application where user can search for any Movie in the search page
 
 
 
-
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
-
-
-
  
  ## Tools Used 🛠️
 <img src="images/html.png" alt="skill" width="50" /> <img src="images/css.png" alt="skill" width="50" /> <img src="images/js.png" alt="skill" width="50" /> <img src="images/github.png" alt="skill" width="50" /> <img src="images/vscode.png" alt="skill" width="50" />  <img src="images/restful.png" alt="skill" width="50" />
