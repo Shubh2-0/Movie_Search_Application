@@ -25,3 +25,45 @@ The tools used in the project are HTML, CSS, JavaScript , OMDB API.
 <!--   -->
 </div>
 
+ ## Features 📋
+⚡️ Fully Responsive\
+⚡️ Valid HTML & CSS\
+⚡️ Easy to modify
+
+
+## Installation & Deployment 📦
+- Clone the repository and modify the content of <b>index.html</b> 
+- Add or remove images from `assets/img/` directory as per your requirement.
+- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+
+
+
+ 
+ ## Tools Used 🛠️
+<img src="images/html.png" alt="skill" width="50" /> <img src="images/css.png" alt="skill" width="50" /> <img src="images/js.png" alt="skill" width="50" /> <img src="images/github.png" alt="skill" width="50" /> <img src="images/vscode.png" alt="skill" width="50" />
+
+
+<br>
+
+
+
+## Contributing 💡
+#### Step 1    -> Clone this repo to your machine 🖥👨‍💻.
+
+#### Step 2️    -> **Build your code** ⚒️
+
+#### Step 3️    -> 🔄️ Create a new pull request.
+
+
+
+<a href="https://poetic-alfajores-3390b6.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+
+<h2>📫 Contact</h2>
+
+If you want to contact me, you can reach me through below handles.
+
+
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shubham-bhati-787319213/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+
+
+
