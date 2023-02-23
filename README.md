@@ -58,9 +58,4 @@ If you want to contact me, you can reach me through below handles.
 
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/shubham-bhati-787319213/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
-
-![GitHub stars](https://img.shields.io/github/stars/Shubh2-0/Movie_Search_Application?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Shubh2-0/Movie_Search_Application?style=social)
-![GitHub watchers](https://img.shields.io/github/Shubh2-0/Movie_Search_Application?style=social)
-![GitHub followers](https://img.shields.io/github/followers/Shubh2-0?style=social)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=SHubh2-0&labelColor=%23697689&countColor=%23263759)
