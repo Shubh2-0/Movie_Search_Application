@@ -3,17 +3,26 @@ This is a Web Application where user can search for any Movie in the search page
 
 
 
- ## Features 📋
+ ## Features ⭐
 
-  ✨ A web application to get information about movies, their cast, their posters, etc.\
-  ✨ This application was developed using JavaScript,HTML,CSS and OMDB API.\
-  ✨ Used the Web Service REST API of the movie DB OMDB (The Movie Database).\
-  ✨ Easy to modify.\
-  ✨ User can sort the movies based on their ratings.\
-  ✨ The application had a text section where user can type a movie title.\
-  ✨ Fully Responsive.\
-  ✨ When user click on one of these movie titles,they redirect to the movies detail page where they view information about the movie: the poster of the movie, the movie title, its genres, the movie overview/summary, and the names of the top five cast members.\
-  ✨ The search results is an itemized clickable list of movie titles along with their poster.\
+  ✨ A web application to get information about movies, their cast, their posters, etc.
+  
+  ✨ This application was developed using JavaScript,HTML,CSS and OMDB API.
+  
+  ✨ Used the Web Service REST API of the movie DB OMDB (The Movie Database).
+  
+  ✨ Easy to modify.
+  
+  ✨ User can sort the movies based on their ratings.
+  
+  ✨ The application had a text section where user can type a movie title.
+  
+  ✨ Fully Responsive.
+  
+  ✨ When user click on one of these movie titles,they redirect to the movies detail page where they view information about the movie: the poster of the movie, the movie             title, its genres, the movie overview/summary, and the names of the top five cast members.
+  
+  ✨ The search results is an itemized clickable list of movie titles along with their poster.
+  
   ✨ Valid HTML & CSS.
   
 
