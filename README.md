@@ -22,13 +22,16 @@ This is a Web Application where user can search for any Movie in the search page
 
 
 <h2> Snippets</h2>
-<div>
+
 <img src="images/Home.png"/>
  
+<h2> Signup Page </h2>
 
+<img src="images/login.png"/>
+ 
    
-<!--   -->
-</div>
+
+
 
 
 
