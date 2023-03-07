@@ -19,7 +19,7 @@ This is a Web Application where user can search for any Movie in the search page
   
   ✨ Fully Responsive.
   
-  ✨ When user click on one of these movie titles,they redirect to the movies detail page where they view information about the movie: the poster of the movie, the movie             title, its genres, the movie overview/summary, and the names of the top five cast members.
+  ✨ When user click on one of these movie titles,they redirect to the movies detail page where they view information about the movie: the poster of the movie, the movie              title, its genres, the movie overview/summary, and the names of the top five cast members.
   
   ✨ The search results is an itemized clickable list of movie titles along with their poster.
   
