@@ -55,12 +55,6 @@ Welcome to the Movie App! This web application is designed to provide you with a
 
 We welcome contributions to make the Movie App even better and more efficient. Here's how you can contribute:
 
-#### Step 1    -> Clone this repo to your machine 🖥👨‍💻.
-
-#### Step 2️    -> **Build your code** ⚒️
-
-#### Step 3️    -> 🔄️ Create a new pull request.
-
 1. **Bug Fixes**: If you come across any bugs or issues while using the app, please report them on the GitHub repository's issue tracker. Be sure to provide detailed steps to reproduce the problem.
 
 2. **Enhancements**: Have an idea for a new feature or an improvement to existing functionalities? Feel free to open a pull request with your proposed changes. We appreciate your creativity and innovation!
