@@ -63,7 +63,7 @@ We welcome contributions to make the Movie App even better and more efficient. H
 
 4. **Code Reviews**: Help review and improve the codebase. By providing constructive feedback, you can help maintain code quality and identify potential improvements.
 
-Please ensure that your contributions align with the repository's guidelines and coding standards. Together, we can make the Movie App an even more powerful and efficient platform for movie enthusiasts worldwide.
+Together, we can make the Movie App an even more powerful and efficient platform for movie enthusiasts worldwide.
 
 
 Feel free to explore the repository, contribute, and make the most of this feature-rich movie information hub!
