@@ -49,16 +49,17 @@ Welcome to the Movie App! This web application is designed to provide you with a
 
 
 
-## Contributing 💡
+
+
+## Contribute and Make the App More Efficient ⚡️
+
+We welcome contributions to make the Movie App even better and more efficient. Here's how you can contribute:
+
 #### Step 1    -> Clone this repo to your machine 🖥👨‍💻.
 
 #### Step 2️    -> **Build your code** ⚒️
 
 #### Step 3️    -> 🔄️ Create a new pull request.
-
-## Contribute and Make the App More Efficient ⚡️
-
-We welcome contributions to make the Movie App even better and more efficient. Here's how you can contribute:
 
 1. **Bug Fixes**: If you come across any bugs or issues while using the app, please report them on the GitHub repository's issue tracker. Be sure to provide detailed steps to reproduce the problem.
 
@@ -70,9 +71,6 @@ We welcome contributions to make the Movie App even better and more efficient. H
 
 Please ensure that your contributions align with the repository's guidelines and coding standards. Together, we can make the Movie App an even more powerful and efficient platform for movie enthusiasts worldwide.
 
-## Visit Now 🎥
-
-Check out the Movie App on GitHub and start discovering your favorite movies: [Movie-App](https://github.com/Shubh2-0/Movie-App.git)
 
 Feel free to explore the repository, contribute, and make the most of this feature-rich movie information hub!
 
