@@ -13,7 +13,7 @@ Welcome to the Movie App! This web application is designed to provide you with a
 ✨ **Customizable and Extendable**: The application is developed using JavaScript, HTML, and CSS, allowing for easy customization and extension of its functionalities.
 
 ✨ **Sorting Options**: Sort movies based on their ratings to discover the highest-rated films in an instant.
-
+ 
 ✨ **Responsive Design**: Enjoy a seamless experience across different devices, as the app is fully responsive and optimized for mobile, tablet, and desktop screens.
 
 ✨ **Detailed Movie Pages**: Clicking on a movie title takes you to a dedicated movie detail page. Here, you can find the movie's poster, title, genres, an overview/summary, and the names of the top five cast members.
