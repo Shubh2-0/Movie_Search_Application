@@ -3,7 +3,7 @@
 Welcome to the Movie App! This web application is designed to provide you with all the information you need about movies. Whether you're looking for details about a specific film or just exploring your movie options, this app has got you covered.
 
 ## Features ⭐
-
+ 
 ✨ **Comprehensive Movie Information**: Get access to a vast collection of movie data, including details about the cast, release year, IMDb rating, and genre.
 
 ✨ **Easy-to-Use Interface**: The application is built with a user-friendly design, making it effortless to navigate and search for movies.
