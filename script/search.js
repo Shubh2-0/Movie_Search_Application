@@ -71,7 +71,7 @@ store(el)
 child.innerHTML=`
 <img src="${el.Poster}" alt="">
     <h2>${el.Title}</h2>
-<h4>Year${el.Year}</h4>
+<h4>Year: ${el.Year}</h4>
 `
 parent.append(child)
 

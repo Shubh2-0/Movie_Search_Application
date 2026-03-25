@@ -16,7 +16,7 @@ function navbar() {
 
 
 <div id="two">
-    <div id="first"><input type="text"><i class="fa-solidfa-magnifying-glass"></i></div>
+    <div id="first"><input type="text"><i class="fa-solid fa-magnifying-glass"></i></div>
     <div id="second"><button>JOIN</button></div>
     <div id="third"><button>SIGNUP</button></div>
 </div>

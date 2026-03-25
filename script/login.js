@@ -5,11 +5,11 @@ document.querySelector('form').addEventListener('submit', function () {
 function rest(event) {
   event.preventDefault()
 
-  let password = localStorage.getItem('email')
-  let email = localStorage.getItem('password')
+  let email = localStorage.getItem('email')
+  let password = localStorage.getItem('password')
 
-  let useremail = document.getElementById('pass').value
-  let userpassword = document.getElementById('email').value
+  let useremail = document.getElementById('email').value
+  let userpassword = document.getElementById('pass').value
 
   if (password == userpassword && email == useremail) {
     login()
